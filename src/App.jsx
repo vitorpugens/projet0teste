@@ -5,11 +5,8 @@ import Listar from './Listar'
 import CriarPost from './CriarPost'
 
 
-
-
 function App() {
   
-
 
   return (
     <>
